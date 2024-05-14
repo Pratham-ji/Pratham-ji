@@ -5,7 +5,6 @@
 - 📫 How to reach me **prathamraj2409@gmail.com**
 - ⚡ Hobbies: Exploring, Watching Anime
 <!--- 📹 -->
-<br />
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
