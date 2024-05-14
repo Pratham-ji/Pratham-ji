@@ -30,13 +30,5 @@
 
 <br/><br/><br/>
 
-<h2 align="center">GitHub Analytics</h2>
-<p >
-  <img width="40%" alt="geeekdude's Github Stats" src="https://github-readme-stats.vercel.app/api?username=geeekdude&show_icons=true&hide_border=true&theme=algolia"/>
-  <img width="40%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=geeekdude&layout=compact&langs_count=8&theme=algolia"/>
-  <img width="40%" src="https://github-readme-streak-stats.herokuapp.com/?user=geeekdude&show_icons=true&locale=en&layout=compact&theme=algolia&line_height=0" />
-</p>
 
-<p align = "center">
- <img width="70%" src="https://activity-graph.herokuapp.com/graph?username=geeekdude&theme=redical">
-</p> 
+
