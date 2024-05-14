@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Pratham</h1>
+<h1 align="center">Hi 👋, My name is Pratham</h1>
 
 - 🌱 I’m currently learning **C, C++, Python, Web Development**
 - 👯 I’m looking to collaborate on **GitHub, LinkedIn**
