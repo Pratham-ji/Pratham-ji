@@ -21,10 +21,10 @@
 
 ### Languages and Tools:
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer"><img align="left" alt="HTML5" width="30px"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /></a>
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img align="left" alt="C" width="30px" src="https://img.icons8.com/color/50/000000/c-programming.png"/></a> 
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"><img align="left" alt="CPP" width="30px" src="https://www.freeiconspng.com/uploads/c--logo-icon-0.png"/></a>
 <a href="https://www.python.org" target="_blank" rel="noreferrer"><img align="left" alt="Python" width="30px" src="https://img.icons8.com/color/48/000000/python--v1.png"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer"><img align="left" alt="HTML5" width="30px"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer"><img align="left" alt="CSS 3" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
 <img align="left" alt="Javascript" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"/> </a> 
