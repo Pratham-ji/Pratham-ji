@@ -2,10 +2,8 @@
 <h3 align="center">One word to descrbe myself and i.e tenacious......</h3>
 
 - 🌱 I’m currently learning **Frontend Web Development**
-- 
+  
 - 👯 I’m looking to collaborate on **GitHub, LinkedIn**
-
-- 💬 Ask me about **anything**
 
 - 📫 How to reach me **prathamraj2409@gmail.com**
 
