@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pratham</h1>
-<h3 align="center">One word to descrbe myself and i.e tenacious</h3>
+<h3 align="center">One word to descrbe myself and i.e tenacious......</h3>
 
 - 🌱 I’m currently learning **Frontend Web Development**
 
