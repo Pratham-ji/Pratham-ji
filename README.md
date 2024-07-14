@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, My name is Pratham</h1>
 
-- 🌱 I’m currently learning **C, C++, Python, Web Development**
+- 🌱 I’m currently learning **C, C++, Python, Web Development and DSA**
 - 👯 I’m looking to collaborate on **GitHub, LinkedIn**
 - 📫 How to reach me **prathamraj2409@gmail.com**
 - ⚡ Hobbies: Exploring, Watching Anime
